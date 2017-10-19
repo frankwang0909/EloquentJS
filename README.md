@@ -1,5 +1,10 @@
 # *Eloquent JavaScript* 读书笔记及代码片段
 
+
+## 简介：
+
+[Eloquent JavaScript](http://eloquentjavascript.net/index.html]) 是 由 Marijn Haverbeke 编写的 JavaScript 编程入门书籍。
+
 ## 第一章：基本数据类型
 
 作者 Marijn Haverbeke 将 JavaScript 的值归为以下 6 种基本类型：
