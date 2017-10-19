@@ -1,2 +1,2 @@
 # EloquentJS
-Learning notes and code snippet from Eloquent JavaScript
+Notes and code snippet from Eloquent JavaScript
