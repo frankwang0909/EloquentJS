@@ -3,7 +3,7 @@
 
 ## 简介：
 
-[Eloquent JavaScript](http://eloquentjavascript.net/index.html]) 是 由 Marijn Haverbeke 编写的 JavaScript 编程入门书籍。
+[Eloquent JavaScript](http://eloquentjavascript.net/index.html) 是 由 Marijn Haverbeke 编写的 JavaScript 编程入门书籍。
 
 ## 第一章：基本数据类型
 
